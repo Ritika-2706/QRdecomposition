@@ -61,7 +61,7 @@ QR_Decomposition(a)
 
 ## Output
 ```
-![QR](https://user-images.githubusercontent.com/93427238/151331302-df43e0d6-4e0e-4549-8d63-34dd4bc7c280.PNG)
+![image](https://user-images.githubusercontent.com/93427238/151331685-3cbe512d-69ff-43e0-a076-49cb4b7aef79.png)
 
 
 ```
